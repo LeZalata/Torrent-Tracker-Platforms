@@ -1,0 +1,17 @@
+List of Gazelle Source codes
+
+## Frontend+Backend
+
+- [Gazelle](https://github.com/WhatCD/Gazelle) - Gazelle is a web framework geared towards private torrent trackers. Although naturally focusing on music, it can be modified for most needs. Gazelle is written in PHP. **(Development Is Dead!)**
+
+- [Luminance](https://github.com/Empornium/Luminance) - Luminance web frontend has a much cleaner structure than Gazelle and is progressing in adding new features. Luminance is written in PHP. **(Development Is Dead!)**
+
+- [Oppaitime-Gazelle](https://git.oppaiti.me/Oppaitime/Gazelle) -  Oppaitime-Gazelle is written in PHP and is a fork off Gazelle. Aimed to make it a very secure codebase. **(Development Is Dead!)**
+
+- [Orpheus-Gazelle](https://github.com/OPSnet/Gazelle) - Orpheus-Gazelle is a fork of Gazelle (written in PHP) and is used by Orpheus. It is primarily aimed at music trackers.**(Development Is Slow!)**
+
+## Tracker/Announce Only
+
+- [Ocelot](https://github.com/WhatCD/Ocelot) - Ocelot is a BitTorrent tracker written in C++ for the Gazelle project. It supports requests over TCP and can only track IPv4 peers.
+
+- [Radiance](https://github.com/Empornium/Radiance) - Based off Ocelot, Radiance tracker supports IPv6 and some other extras that Ocelot lacks. Written in C++.
